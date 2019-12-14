@@ -1,0 +1,2 @@
+# Ignore intermediates and output of rust.
+Cargo.lock
